@@ -1,0 +1,11 @@
+{
+  "name": "Baccarat Edge Analyzer",
+  "short_name": "Baccarat Edge",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "description": "Offline exact 8-deck baccarat probability and EV analyzer.",
+  "icons": []
+}
